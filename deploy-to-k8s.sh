@@ -19,12 +19,12 @@ function show_usage {
 }
 
 # Default values
-REGISTRY="registry.cloudraya.com/ir-cr-hendi-144"
+REGISTRY="registry.cloudraya.com/ir-cr-juan-4429"
 TAG="latest"
-NAMESPACE="hendi-cluster"
+NAMESPACE="demo"
 USE_PERSISTENT=false
 USE_INGRESS=false
-DOMAIN="k8s.jvm.my.id"
+DOMAIN="k8s.pixly.club"
 SKIP_BUILD=false
 
 # Parse command line arguments
